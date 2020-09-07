@@ -13,4 +13,5 @@ def find_min_in_nested_arrays(src)
     daily_low << minimum_temp
     row_index += 1
   end
+  daily_low
 end
